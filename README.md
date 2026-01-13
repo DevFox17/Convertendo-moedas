@@ -1,4 +1,4 @@
-# 💱 Convertendo Moedas
+# 💱 Conversor de Moedas
 
 Um **conversor de moedas simples e intuitivo**, desenvolvido com foco em aprendizado de **HTML, CSS e JavaScript**. O projeto permite converter valores entre diferentes moedas de forma rápida, com uma interface limpa e responsiva.
 
